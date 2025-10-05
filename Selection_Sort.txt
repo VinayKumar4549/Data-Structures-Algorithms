@@ -1,0 +1,10 @@
+# Selection Sort Algorithm
+## Algorithm Steps
+
+1. Start with the first element of the array.
+2. Find the minimum element in the unsorted portion of the array.
+3. Swap the minimum element with the first unsorted element.
+4. Move the boundary of the sorted portion one step forward.
+5. Repeat steps 2-4 until the entire array is sorted.
+
+
